@@ -33,7 +33,10 @@ section{
     padding: 10px;
     border: 2px dotted #8961b5;
 }
-section:hover{
-    background-color: #181818;
-    color: rgb(255, 188,63);
+.comando-git{
+    padding: 5px;
+    font-size: 1.25rem;
+    border: 3px solid #9920a3;
+    background-color: #c9c8c8;
+    color: #484848;
 }
