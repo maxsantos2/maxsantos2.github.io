@@ -40,3 +40,9 @@ section{
     background-color: #c9c8c8;
     color: #484848;
 }
+p{
+    padding: 5px;
+}
+.conteudo{
+    margin-top: 50px;
+}
