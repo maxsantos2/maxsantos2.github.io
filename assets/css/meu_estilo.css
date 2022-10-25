@@ -50,6 +50,7 @@ p{
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-wrap: wrap;
 }
 .projeto{
     height: 300px;
